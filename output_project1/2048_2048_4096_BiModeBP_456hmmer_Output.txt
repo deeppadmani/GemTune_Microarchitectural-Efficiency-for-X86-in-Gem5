@@ -1,0 +1,2 @@
+system.cpu.branchPred.BTBMissPct             0.994386                       # BTB Miss Percentage 
+system.cpu.BranchMispredPercent             11.358833                       # Percent of Branch mispred

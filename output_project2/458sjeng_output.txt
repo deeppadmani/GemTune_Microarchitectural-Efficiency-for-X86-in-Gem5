@@ -1,0 +1,720 @@
+64kB_64kB_64MB_1_1_1_256  bechCount: 1
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1625819                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030458                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           539                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000008                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620988                       # number of overall misses
+system.l2.overall_miss_rate::total           0.996698                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_1_1_1_512  bechCount: 2
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        819476                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015352                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           440                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000006                       # miss rate for overall accesses
+system.l2.overall_misses::total                810645                       # number of overall misses
+system.l2.overall_miss_rate::total           0.988693                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_1_1_4_256  bechCount: 3
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1625819                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030458                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           318                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620975                       # number of overall misses
+system.l2.overall_miss_rate::total           0.996826                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_1_1_4_512  bechCount: 4
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        819476                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015352                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           219                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810634                       # number of overall misses
+system.l2.overall_miss_rate::total           0.988946                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_1_1_8_256  bechCount: 5
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1625819                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030458                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           306                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620970                       # number of overall misses
+system.l2.overall_miss_rate::total           0.996830                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_1_1_8_512  bechCount: 6
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        819476                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015352                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           209                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810632                       # number of overall misses
+system.l2.overall_miss_rate::total           0.988956                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_4_4_1_256  bechCount: 7
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620720                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           539                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000008                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620998                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999839                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_4_4_1_512  bechCount: 8
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810479                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           440                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000006                       # miss rate for overall accesses
+system.l2.overall_misses::total                810647                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999665                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_4_4_4_256  bechCount: 9
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620720                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           318                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620985                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999967                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_4_4_4_512  bechCount: 10
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810479                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           219                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810636                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999924                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_4_4_8_256  bechCount: 11
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620720                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           306                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620980                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999972                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_4_4_8_512  bechCount: 12
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810479                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           209                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810634                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999933                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_8_8_1_256  bechCount: 13
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620719                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           539                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000008                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620987                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999833                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_8_8_1_512  bechCount: 14
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810475                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           440                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000006                       # miss rate for overall accesses
+system.l2.overall_misses::total                810636                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999656                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_8_8_4_256  bechCount: 15
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620719                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           318                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620975                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999962                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_8_8_4_512  bechCount: 16
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810475                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           219                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810626                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999916                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_8_8_8_256  bechCount: 17
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620719                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           306                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620970                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999966                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_64MB_8_8_8_512  bechCount: 18
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810475                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           209                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810623                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999925                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_1_1_1_256  bechCount: 19
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1625819                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030458                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           539                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000008                       # miss rate for overall accesses
+system.l2.overall_misses::total               1041466                       # number of overall misses
+system.l2.overall_miss_rate::total           0.640367                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_1_1_1_512  bechCount: 20
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        819476                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015352                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           440                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000006                       # miss rate for overall accesses
+system.l2.overall_misses::total                520922                       # number of overall misses
+system.l2.overall_miss_rate::total           0.635336                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_1_1_4_256  bechCount: 21
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1625819                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030458                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           318                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1041441                       # number of overall misses
+system.l2.overall_miss_rate::total           0.640439                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_1_1_4_512  bechCount: 22
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        819476                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015352                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           219                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                520910                       # number of overall misses
+system.l2.overall_miss_rate::total           0.635492                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_1_1_8_256  bechCount: 23
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1625819                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030458                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           306                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1041433                       # number of overall misses
+system.l2.overall_miss_rate::total           0.640438                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_1_1_8_512  bechCount: 24
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        819476                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015352                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           209                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                520905                       # number of overall misses
+system.l2.overall_miss_rate::total           0.635494                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_4_4_1_256  bechCount: 25
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620720                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           539                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000008                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620902                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999780                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_4_4_1_512  bechCount: 26
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810479                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           440                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000006                       # miss rate for overall accesses
+system.l2.overall_misses::total                810591                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999596                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_4_4_4_256  bechCount: 27
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620720                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           318                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620890                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999909                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_4_4_4_512  bechCount: 28
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810479                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           219                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810581                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999856                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_4_4_8_256  bechCount: 29
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620720                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           306                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620885                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999913                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_4_4_8_512  bechCount: 30
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810479                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           209                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810578                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999864                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_8_8_1_256  bechCount: 31
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620719                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           539                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000008                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620982                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999830                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_8_8_1_512  bechCount: 32
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810475                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           440                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000006                       # miss rate for overall accesses
+system.l2.overall_misses::total                810631                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999650                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_8_8_4_256  bechCount: 33
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620719                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           318                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620970                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999959                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_8_8_4_512  bechCount: 34
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810475                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           219                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810621                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999910                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_8_8_8_256  bechCount: 35
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620719                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           306                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620965                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999963                       # miss rate for overall accesses
+#################################################################################################################################
+
+64kB_64kB_128MB_8_8_8_512  bechCount: 36
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810475                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015184                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           209                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810618                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999919                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_1_1_1_256  bechCount: 37
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1622664                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030399                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           483                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000007                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620974                       # number of overall misses
+system.l2.overall_miss_rate::total           0.998661                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_1_1_1_512  bechCount: 38
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        813394                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015238                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           378                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000005                       # miss rate for overall accesses
+system.l2.overall_misses::total                810632                       # number of overall misses
+system.l2.overall_miss_rate::total           0.996141                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_1_1_4_256  bechCount: 39
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1622664                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030399                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620969                       # number of overall misses
+system.l2.overall_miss_rate::total           0.998769                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_1_1_4_512  bechCount: 40
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        813394                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015238                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810628                       # number of overall misses
+system.l2.overall_miss_rate::total           0.996353                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_1_1_8_256  bechCount: 41
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1622664                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030399                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620969                       # number of overall misses
+system.l2.overall_miss_rate::total           0.998769                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_1_1_8_512  bechCount: 42
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        813394                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015238                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810628                       # number of overall misses
+system.l2.overall_miss_rate::total           0.996353                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_4_4_1_256  bechCount: 43
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620718                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           483                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000007                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620984                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999866                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_4_4_1_512  bechCount: 44
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           378                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000005                       # miss rate for overall accesses
+system.l2.overall_misses::total                810634                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999736                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_4_4_4_256  bechCount: 45
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620718                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620979                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999974                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_4_4_4_512  bechCount: 46
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810630                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999949                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_4_4_8_256  bechCount: 47
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620718                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620979                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999974                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_4_4_8_512  bechCount: 48
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810630                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999949                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_8_8_1_256  bechCount: 49
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620717                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           483                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000007                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620974                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999861                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_8_8_1_512  bechCount: 50
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           378                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000005                       # miss rate for overall accesses
+system.l2.overall_misses::total                810624                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999724                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_8_8_4_256  bechCount: 51
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620717                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620969                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999969                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_8_8_4_512  bechCount: 52
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810620                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999937                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_8_8_8_256  bechCount: 53
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620717                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620969                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999969                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_64MB_8_8_8_512  bechCount: 54
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810620                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999937                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_1_1_1_256  bechCount: 55
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1622664                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030399                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           483                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000007                       # miss rate for overall accesses
+system.l2.overall_misses::total               1041434                       # number of overall misses
+system.l2.overall_miss_rate::total           0.641614                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_1_1_1_512  bechCount: 56
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        813394                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015238                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           378                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000005                       # miss rate for overall accesses
+system.l2.overall_misses::total                520893                       # number of overall misses
+system.l2.overall_miss_rate::total           0.640097                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_1_1_4_256  bechCount: 57
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1622664                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030399                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1041419                       # number of overall misses
+system.l2.overall_miss_rate::total           0.641676                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_1_1_4_512  bechCount: 58
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        813394                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015238                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                520883                       # number of overall misses
+system.l2.overall_miss_rate::total           0.640224                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_1_1_8_256  bechCount: 59
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1622664                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030399                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1041418                       # number of overall misses
+system.l2.overall_miss_rate::total           0.641675                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_1_1_8_512  bechCount: 60
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        813394                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015238                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                520881                       # number of overall misses
+system.l2.overall_miss_rate::total           0.640221                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_4_4_1_256  bechCount: 61
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620718                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           483                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000007                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620889                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999808                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_4_4_1_512  bechCount: 62
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           378                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000005                       # miss rate for overall accesses
+system.l2.overall_misses::total                810579                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999668                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_4_4_4_256  bechCount: 63
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620718                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620884                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999915                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_4_4_4_512  bechCount: 64
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810575                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999882                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_4_4_8_256  bechCount: 65
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620718                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620884                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999915                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_4_4_8_512  bechCount: 66
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810575                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999882                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_8_8_1_256  bechCount: 67
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620717                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           483                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000007                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620969                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999858                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_8_8_1_512  bechCount: 68
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           378                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000005                       # miss rate for overall accesses
+system.l2.overall_misses::total                810619                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999718                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_8_8_4_256  bechCount: 69
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620717                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620964                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999965                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_8_8_4_512  bechCount: 70
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810615                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999931                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_8_8_8_256  bechCount: 71
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total       1620717                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.030363                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           303                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000004                       # miss rate for overall accesses
+system.l2.overall_misses::total               1620964                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999965                       # miss rate for overall accesses
+#################################################################################################################################
+
+128kB_128kB_128MB_8_8_8_512  bechCount: 72
+------------------------------------------------------------------------------------------------------------------------------
+system.cpu.dcache.overall_misses::total        810470                       # number of overall misses
+system.cpu.dcache.overall_miss_rate::total     0.015183                       # miss rate for overall accesses
+system.cpu.icache.overall_misses::total           201                       # number of overall misses
+system.cpu.icache.overall_miss_rate::total     0.000003                       # miss rate for overall accesses
+system.l2.overall_misses::total                810615                       # number of overall misses
+system.l2.overall_miss_rate::total           0.999931                       # miss rate for overall accesses
+#################################################################################################################################
+
